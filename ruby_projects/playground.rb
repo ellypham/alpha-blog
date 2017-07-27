@@ -1,0 +1,1 @@
+my_details = {'name' => 'elly', 'favcolour' => 'red'}
